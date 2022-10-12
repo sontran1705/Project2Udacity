@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/P02-VehiclesAPI/boogle-maps/boogle-maps.iml" filepath="$PROJECT_DIR$/P02-VehiclesAPI/boogle-maps/boogle-maps.iml" />
       <module fileurl="file://$PROJECT_DIR$/P02-VehiclesAPI/eureka-server/demo.iml" filepath="$PROJECT_DIR$/P02-VehiclesAPI/eureka-server/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P02-VehiclesAPI/eureka-server/eureka.iml" filepath="$PROJECT_DIR$/P02-VehiclesAPI/eureka-server/eureka.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/demo/eureka-server.iml" filepath="$USER_HOME$/Downloads/demo/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/nd035-C2-Web-Services-and-APIs-Exercises-and-Project-Starter.iml" filepath="$PROJECT_DIR$/.idea/nd035-C2-Web-Services-and-APIs-Exercises-and-Project-Starter.iml" />
       <module fileurl="file://$PROJECT_DIR$/P02-VehiclesAPI/pricing-service/pricing-service.iml" filepath="$PROJECT_DIR$/P02-VehiclesAPI/pricing-service/pricing-service.iml" />
